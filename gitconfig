@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthur.deruelle@gmail.com
+	name = Arthur Deruelle
